@@ -4,7 +4,6 @@
 //
 // Execute `rustlings hint clippy3` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
 
 
 #[allow(unused_variables, unused_assignments)]
@@ -13,7 +12,6 @@ fn main() {
     if my_option.is_none() {
         // let res = my_option.unwrap();
         // panic!("some thing wrong here!");
-        
     }
 
     let my_arr = &[
